@@ -8,3 +8,7 @@ Framework
 
 Bootstrapped with create-react-app
 Documentation DOCS.md
+
+Feature Request Documentation
+
+Here is the link to the Google Doc for the proposed feature request: https://docs.google.com/document/d/14Pr0dhriJz3ifKHra0yjKNxOjmNegfPbrPWbZSS-qCA/edit?usp=sharing
